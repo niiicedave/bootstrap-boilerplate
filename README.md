@@ -16,7 +16,7 @@ A basic bootstrap boilerplate to start a mobile-friendly website
 - A Terminal
 - Text editor or [VS Code](https://code.visualstudio.com/)
 - Create folder 'Bootstrap Boilerplate' with: file `index.html`, subfolder `CSS` with file `style.css` in it, empty subfolder `JS` for future JS, subfolder `IMG` for future images
-- Clone repository `git clone <repo>
+- Clone repository `git clone <repo>`
 - In Github make sure to check box to create readme file
 - in VSCode, open folder 'Bootstrap Boilerplate'
 
