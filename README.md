@@ -14,6 +14,7 @@ A basic bootstrap boilerplate to start a mobile-friendly website
 
 - Git [git](https://gitscm.com)
 - Clone repository 'git clone <repo>'
+- In Github make sure to check box to create readme file
 - Create 'git branch starter-files'
 - Text editor or [VS Code](https://code.visualstudio.com/)
 
